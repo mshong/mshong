@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub watchers](https://img.shields.io/github/watchers/mshong/mshong?style=social)
-![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/mshong)
-
