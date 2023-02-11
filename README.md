@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[방문자수](https://img.shields.io/github/watchers/mshong/mshong?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mshong/mshong?style=social)
+![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/mshong)
 
