@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am currently working on Sapien Semiconductor in Seoul Korea. I am developing IPs for VLSI and interested in Video Codec(VESA Standards DSC and VDC-M), De-Mura compensation, dead pixel compensation and video scaler for micro LEDs.
+
+I lectured on digital signal processing and discrete mathematics as a cooperation professor at Korea University. Now, I started Github because I wanted to share both theoriotic and pratical knowledge with many people.
+
+I hope to meet you soon on the subject through examples coded in Python and Verilog HDL.
+
 <!--
 **mshong/mshong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
