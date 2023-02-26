@@ -5,7 +5,7 @@
 - 🔭 I’m currently working for a fabless company.
 - 🤔 I'm interested in machine learning such as super resolution now.
 - 📫 How to reach me: mshong328@gmail.com
-- 😄 Verilog hdl projects I've recently developed.
+- 😄 Verilog HDL projects I've recently developed.
 1. DSC(Display Stream Compression: https://vesa.org/vesa-display-compression-codecs/#tab-dsc)
 2. VDC-M(Video Display Compression M: https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m)
 3. De-Mura Compensation(Compensates stains that appear in the process of uLED/OLED display)
