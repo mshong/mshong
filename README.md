@@ -1,24 +1,12 @@
 ### Hi there 👋
 
-I am currently working on Sapien Semiconductor in Seoul Korea. I am developing IPs for VLSI and interested in Video Codec(VESA Standards DSC and VDC-M), De-Mura compensation, dead pixel compensation and video scaler for micro LEDs.
+- 👯 I’m @mshong.
+- 🌱 I have a Ph.D. degree in electrical engineering.
+- 🔭 I’m currently working on a fabless company relating video display controllers.
+- 😄 I’ve been designed some IPs such as bicubic scaler, color temperature controller, recently.
+- 🤔 I'm interested in machine learning such as super resolution now.
+- 📫 How to reach me: mshong328@gmail.com
 
-I lectured on digital signal processing and discrete mathematics as a cooperation professor at Korea University. Now, I started Github because I wanted to share both theoriotic and pratical knowledge with many people.
-
-I hope to meet you soon on the subject through examples coded in Python and Verilog HDL.
-
-<!--
-**mshong/mshong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![GitHub watchers](https://img.shields.io/github/watchers/mshong/mshong?style=social)
