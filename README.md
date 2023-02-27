@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m @mshong.
-- 🌱 I have a Ph.D. degree in electrical engineering.
+- 🌱 I've a Ph.D. degree in electrical engineering.
 - 🔭 I’m currently working for a fabless company.
 - 🤔 I'm interested in machine learning such as super resolution now.
 - 📫 How to reach me: mshong328@gmail.com
