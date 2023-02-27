@@ -10,6 +10,6 @@
 2. VDC-M(Video Display Compression M: https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m)
 3. De-Mura Compensation(Compensates stains that appear in the process of uLED/OLED display)
 4. Dead Pixel Compensation(Compensates dead pixels that apper in the process of uLED/OLED display)
-5. A video scaler that can be confirable by condition compilation to bilinear or bicubic, and scale up or down to free size.
+5. A video scaler that can be configurable to bilinear or bicubic by condition compilation, and especially, scale up or down to any size.
 
 ![GitHub watchers](https://img.shields.io/github/watchers/mshong/mshong?style=social)
