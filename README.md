@@ -7,9 +7,9 @@
 # Recent Verilog HDL Projects:
 I have recently developed the following projects using Verilog HDL:
 
-1. **DSC(Display Stream Compression)**: A video compression standard developed by VESA (Video Electronics Standards Association) that is used to reduce the amount of data needed to transmit high-quality video. More information can be found at https://vesa.org/vesa-display-compression-codecs/#tab-dsc.
+1. **DSC(Display Stream Compression)**: A video compression standard developed by VESA (Video Electronics Standards Association) that is used to reduce the amount of data needed to transmit high-quality video. More information can be found at [DSC](https://vesa.org/vesa-display-compression-codecs/#tab-dsc).
 
-2. **VDC-M(Video Display Compression M)**: Another video compression standard developed by VESA that is designed for high-end displays, such as those used in medical and aerospace applications. More information can be found at https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m.
+2. **VDC-M(Video Display Compression M)**: Another video compression standard developed by VESA that is designed for high-end displays, such as those used in medical and aerospace applications. More information can be found at [VDC-M](https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m).
 
 3. **De-Mura Compensation**: A technique used to compensate for stains that may appear in the process of producing uLED/OLED displays.
 
