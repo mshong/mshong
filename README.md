@@ -1,6 +1,8 @@
 # Introduction
 - Hi, I’m @mshong, with a Ph.D. degree in electrical engineering.
-- Currently, I'm working for a fabless company and interested in machine learning such as super resolution.
+- Currently, I'm working for a fabless company, Sapien Semiconductor (www.sapien-semicon.com).
+- I have been developing video compression technologies, display technology, and image processing mostly.
+- Lately, I have been interested in machine learning and deep learning with Python.
 - You can reach me at mshong328@gmail.com.
 # Recent Verilog HDL Projects:
 I have recently developed the following projects using Verilog HDL:
@@ -15,6 +17,6 @@ I have recently developed the following projects using Verilog HDL:
 
 5. **Bilinear and Bicubic Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.
 
-These Verilog HDL projects demonstrate my expertise in video compression, display technology, and image processing. Feel free to contact me if you have any questions or want to discuss any projects related to these topics.
+Feel free to contact me if you have any questions or want to discuss any projects related to these topics.
 
 ![GitHub watchers](https://img.shields.io/github/watchers/mshong/mshong?style=social)
