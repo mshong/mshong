@@ -1,5 +1,6 @@
 # Introduction
 - Hi, I’m @mshong, with a Ph.D. degree in electrical engineering.
+- I worked as an cooperation professor at Korea University for 5 years, teaching "Signals and System" and "Discrete Math".
 - Currently, I'm working for a fabless company, [Sapien Semiconductor](http://www.sapien-semicon.com).
 - I have been developing video compression technologies, display technology, and image processing mostly.
 - Lately, I have been interested in machine learning and deep learning with Python.
@@ -15,7 +16,7 @@ I have recently developed the following projects using Verilog HDL:
 
 4. **Dead Pixel Compensation**: A technique used to compensate for dead pixels that may appear in the process of producing uLED/OLED displays.
 
-5. **Bilinear and Bicubic Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.
+5. **Bilinear and Bicubic Video Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.
 
 Feel free to contact me if you have any questions or want to discuss any projects related to these topics.
 
