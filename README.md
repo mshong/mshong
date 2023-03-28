@@ -1,6 +1,6 @@
 # Introduction
 - Hi, I’m @mshong, with a Ph.D. degree in electrical engineering.
-- I worked as an cooperation professor at Korea University for 5 years, teaching **Signals and System** and **Discrete Math**.
+- I worked as an cooperation professor at Korea University for 5 years, teaching **Signals and Systems** and **Discrete Math**.
 - I'm currently employed at [Sapien Semiconductor](http://www.sapien-semicon.com), a fabless company where my work involves **algorithm development using Python** and **IP design using Verilog HDL**.
 - I have been developing video compression technologies, display technology, and image processing mostly.
 - Lately, I have been interested in machine learning and deep learning with Python.
