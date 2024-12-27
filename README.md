@@ -22,4 +22,4 @@
 
 - **Bilinear and Bicubic Video Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.  
 
-Feel free to contact [me](mshong328@gmail.com) if you have any questions or want to discuss any projects related to these topics.
+Feel free to contact [me](mailto:mshong328@gmail.com) if you have any questions or want to discuss any projects related to these topics.
