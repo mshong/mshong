@@ -9,10 +9,8 @@
 - Camera ISP algorithms
 - Algorithm development using Python
 - IP design using Verilog HDL
--
-- I have been developing video compression technologies, display technology, and image processing mostly.
+- Developing video compression technologies, display technology, and image signal processing mostly.
 - Lately, I have been interested in machine learning and deep learning with Python.
-- You can reach me at mshong328@gmail.com.
 # Recent Projects:
 - **DSC(Display Stream Compression)**: A video compression standard developed by VESA (Video Electronics Standards Association) that is used to reduce the amount of data needed to transmit high-quality video. More information can be found at [DSC](https://vesa.org/vesa-display-compression-codecs/#tab-dsc).
 
@@ -22,6 +20,6 @@
 
 - **Dead Pixel Compensation**: A technique used to compensate for dead pixels that may appear in the process of producing uLED/OLED displays.
 
-- **Bilinear and Bicubic Video Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.
+- **Bilinear and Bicubic Video Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.  
 
-Feel free to contact me if you have any questions or want to discuss any projects related to these topics.
+Feel free to contact [me](mshong328@gmail.com) if you have any questions or want to discuss any projects related to these topics.
