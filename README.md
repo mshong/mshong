@@ -1,12 +1,20 @@
-# Introduction
-- Hi, I’m @mshong, with a Ph.D. degree in electrical engineering.
-- I worked as an cooperation professor at Korea University for 5 years, teaching **Signals and Systems** and **Discrete Math**.
-- I'm currently employed at [Sapien Semiconductor](http://www.sapien-semicon.com), a fabless company where my work involves **algorithm development using Python** and **IP design using Verilog HDL**.
+# Professional Background
+### Academic Roles:
+- Currently teaching **Engineering Information Processing** at Yonsei University.
+- Teaching **C Programming** and **Python Programming** at Korea University.
+- Previously served as a **Cooperation Professor** at Korea University for 5 years, teaching **Signals and Systems** and **Discrete Math**.
+### Technical Expertise:
+- Video codec algorithms and IP design
+- Display-related algorithms and IP design
+- Camera ISP algorithms
+- Algorithm development using Python
+- IP design using Verilog HDL
+-
 - I have been developing video compression technologies, display technology, and image processing mostly.
 - Lately, I have been interested in machine learning and deep learning with Python.
 - You can reach me at mshong328@gmail.com.
-# Recent Verilog HDL Projects:
-I have recently developed the following projects using Verilog HDL:
+# Recent Projects:
+I have recently developed the following projects:
 
 1. **DSC(Display Stream Compression)**: A video compression standard developed by VESA (Video Electronics Standards Association) that is used to reduce the amount of data needed to transmit high-quality video. More information can be found at [DSC](https://vesa.org/vesa-display-compression-codecs/#tab-dsc).
 
