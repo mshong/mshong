@@ -1,7 +1,7 @@
 # Professional Background
 ### Academic Roles:
-- Currently teaching **Engineering Information Processing** at Yonsei University.
-- Teaching **C Programming** and **Python Programming** at Korea University.
+- Currently teaching **Engineering Information Processing** at the Dept. of Mechnical Eng., Yonsei University.
+- Teaching **C Programming** and **Python Programming** at the Dept. of Computer, Korea University.
 - Previously served as a **Cooperation Professor** at Korea University for 5 years, teaching **Signals and Systems** and **Discrete Math**.
 ### Technical Expertise:
 - Video codec algorithms and IP design
