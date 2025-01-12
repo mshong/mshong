@@ -1,11 +1,5 @@
 # Professional Background  
 
-## Academic Qualifications  
-- **Yonsei University**  
-  - Ph.D. in Electrical and Electronic Engineering  
-  - M.S. in Electrical Engineering  
-  - B.S. in Electrical Engineering  
-
 ## Academic Roles  
 - **Yonsei University** (Dept. of Mechanical Engineering)  
   - Teaching *Engineering Information Processing*.  
