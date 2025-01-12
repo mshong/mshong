@@ -1,22 +1,61 @@
-# Professional Background
-### Academic Roles:
-- Currently teaching **Engineering Information Processing** at the Dept. of Mechnical Eng., Yonsei University.
-- Teaching **C Programming** and **Python Programming** at the Dept. of Computer, Korea University.
-- Previously served as a **Cooperation Professor** at Korea University for 5 years, teaching **Signals and Systems** and **Discrete Math**.
-### Technical Expertise:
-- Video codec algorithms and IP design
-- Display-related algorithms and IP design
-- Camera ISP algorithms
-- Algorithm development using Python
-- IP design using Verilog HDL
-- Developing video compression technologies, display technology, and image signal processing mostly.
-- Lately, I have been interested in machine learning and deep learning with Python.
-# Recent Projects:
-- **DSC(Display Stream Compression)**: A video compression standard developed by VESA (Video Electronics Standards Association) that is used to reduce the amount of data needed to transmit high-quality video. More information can be found at [DSC](https://vesa.org/vesa-display-compression-codecs/#tab-dsc).
-- **VDC-M(Video Display Compression M)**: Another video compression standard developed by VESA that is designed for high-end displays, such as those used in medical and aerospace applications. More information can be found at [VDC-M](https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m).
-- **De-Mura Compensation**: A technique used to compensate for stains that may appear in the process of producing uLED/OLED displays.
-- **Dead Pixel Compensation**: A technique used to compensate for dead pixels that may appear in the process of producing uLED/OLED displays.
-- **Bilinear and Bicubic Video Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.
-- **Image Signal Processing**: Alogorithms used to enhance image qualities for SWIR CMOS image sensors.    
+# Professional Background  
 
-Feel free to contact [me](mailto:mshong328@gmail.com) if you have any questions or want to discuss any projects related to these topics.
+## Academic Qualifications  
+- **Yonsei University**  
+  - Ph.D. in Electrical and Electronic Engineering  
+  - M.S. in Electrical Engineering  
+  - B.S. in Electrical Engineering  
+
+## Academic Roles  
+- **Yonsei University** (Dept. of Mechanical Engineering)  
+  - Teaching *Engineering Information Processing*.  
+
+- **Korea University** (Dept. of Computer Science)  
+  - Teaching *C Programming* and *Python Programming*.  
+  - Worked as a **Cooperation Professor** for 5 years, during which time I taught:  
+    - *Signals and Systems*  
+    - *Discrete Mathematics*.  
+
+## Industry Experience  
+- **Samsung Electronics**  
+  - Served as a **Principal Researcher**, specializing in video codec development.  
+
+- **SoftLogic (CEO)**  
+  - Founded and led a company focused on developing semiconductor chips for surveillance systems.  
+
+- **Conexant Int. (Director, USA)**  
+  - Directed video codec algorithm development, contributing to advanced video compression technologies.  
+
+## Technical Expertise  
+- **Video Codec Algorithms** and **IP Design**.  
+- **Display Algorithms** and **IP Design**.  
+- **Camera ISP Algorithms**.  
+- **Python-based Algorithm Development**.  
+- **Verilog HDL for IP Design**.  
+- Specialized in video compression, display technology, and image signal processing.  
+- Recent interest: Machine Learning and Deep Learning with Python.  
+
+## Recent Projects  
+- **Display Stream Compression (DSC)**  
+  - A VESA standard for efficient, high-quality video compression.  
+  - More details: [VESA DSC](https://vesa.org/vesa-display-compression-codecs/#tab-dsc).  
+
+- **Video Display Compression M (VDC-M)**  
+  - A VESA standard for high-end displays in medical and aerospace fields.  
+  - More details: [VESA VDC-M](https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m).  
+
+- **De-Mura Compensation**  
+  - Corrects luminance and color irregularities in uLED/OLED displays.  
+
+- **Dead Pixel Compensation**  
+  - Mitigates dead pixel issues during uLED/OLED display production.  
+
+- **Bilinear and Bicubic Video Scaling**  
+  - Algorithms for resizing images with minimal quality loss.  
+
+- **Image Signal Processing for SWIR CMOS Sensors**  
+  - Algorithms enhancing image quality for specialized imaging applications.  
+
+---
+
+Feel free to reach out at [mshong328@gmail.com](mailto:mshong328@gmail.com) for collaborations or discussions.
