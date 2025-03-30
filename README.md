@@ -2,7 +2,7 @@
 
 ## Academic Roles  
 - **Yonsei University** (Dept. of Mechanical Engineering)  
-  - Teaching *Engineering Information Processing*.  
+  - Teaching *Engineering Information Processing* with *Python*.  
 
 - **Korea University** (Dept. of Computer Science)  
   - Teaching *C Programming* and *Python Programming*.  
